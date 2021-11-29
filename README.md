@@ -29,3 +29,18 @@ public class isOnGround : MonoBehaviour
    }
 }
 ```
+|Align|
+| --- |
+|top  |
+|left |
+|down |
+|right|
+|topLeft|
+|topRight|
+|leftTop|
+|leftDown|
+|rightTop|
+|rightDown|
+|downLeft|
+|donwRight|
+
