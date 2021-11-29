@@ -29,7 +29,7 @@ public class isOnGround : MonoBehaviour
    }
 }
 ```
-#带有Align的方法中Align是重要枚举，使射线对齐于某个锚点，参数如下
+## 带有Align的方法中Align是重要枚举，使射线对齐于某个锚点，参数如下
 |Align|
 | --- |
 |top  |
