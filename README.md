@@ -29,7 +29,7 @@ public class isOnGround : MonoBehaviour
    }
 }
 ```
-|Align|
+|Align（用于带有Align的方法中，使射线对齐于某个锚点）|
 | --- |
 |top  |
 |left |
